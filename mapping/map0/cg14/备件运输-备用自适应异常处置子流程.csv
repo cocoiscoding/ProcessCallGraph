@@ -1,0 +1,8 @@
+timestamp,traceid,service,rpc_id,rpctype,um,uminstanceid,interface,dm,dminstanceid,rt
+2612438,T_9187105032,S_114563869,0,http,自适应异常处置,USER,WkGNdcMqE-,数字孪生应急推演,MS_46970_POD_5,5.0
+2612438,T_9187105032,S_114563869,0,http,数字孪生应急推演,USER,WkGNdcMqE-,多物理场耦合仿真,MS_46970_POD_5,5.0
+2612438,T_9187105032,S_114563869,0,http,多物理场耦合仿真,USER,WkGNdcMqE-,故障传播动力学建模,MS_46970_POD_5,5.0
+2612438,T_9187105032,S_114563869,0,http,故障传播动力学建模,USER,WkGNdcMqE-,相空间重构,MS_46970_POD_5,5.0
+2612438,T_9187105032,S_114563869,0,http,相空间重构,USER,WkGNdcMqE-,奇异吸引子检测,MS_46970_POD_5,5.0
+2612438,T_9187105032,S_114563869,0,http,奇异吸引子检测,USER,WkGNdcMqE-,临界态预警,MS_46970_POD_5,5.0
+2614524,T_24614320482,S_49777426,0.1.1,mc,临界态预警,MS_26670_POD_552,7aJ_JD61MG,Null,MS_2827_POD_107,1.0
